@@ -1,0 +1,3 @@
+Orahirin,Quenadarin,Brivfarin,Marlyr,Jarulth,Skarzral,Auresaral,Bryntaril,Belhal,Zorxal,Glaurlon,Eltmir,Nyllyr,Aeordax,Urural,Olarkyr,Tyrjorath,Lazirin,Nygarath,Mavkael,Eltgalor,Zyrixgarath,Nyophis,Seltyr,Elardaros,Selaxar,Thazulth,Iryndren,Havmirath,Galadir
+
+L11,R37,L43,R26,L16,R25,L20,R45,L12,R19,L45,R29,L8,R34,L15,R21,L33,R48,L9,R6,L5,R47,L5,R23,L5,R21,L5,R31,L5,R42,L5,R23,L5,R30,L5,R45,L5,R31,L5,R27,L26,R9,L9,R24,L32,R32,L42,R48,L7,R24,L9,R22,L19,R35,L46,R6,L40,R27,L10
