@@ -48,4 +48,10 @@ public class Util {
     public static List<String> csvLine(String line) {
         return List.of(line.split(","));
     }
+
+    public static void print2D(List<List<Character>> grid) {
+        for (List<Character> row : grid) {
+            System.out.println(row.stream().map(String::valueOf).collect(Collectors.joining()));
+        }
+    }
 }
